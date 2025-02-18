@@ -9,3 +9,8 @@ Esta carpeta contiene soluciones a problemas de LeetCode resueltos utilizando **
 
 ## Política de los nombres de cada archivo
 - Cada archivo es nombrado por el problema que se ha resuelto.
+
+## Para ejecutar estas soluciones, se necesita tener acceso a una base de datos SQL. Puedes usar herramientas como:
+- MySQL
+- PostgreSQL
+- SQLite
