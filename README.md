@@ -1,10 +1,10 @@
-# Colección de soluciones a problemas de LeetCode
+# Colección de soluciones a problemas SQL de LeetCode
 
-Este repositorio contiene soluciones a problemas de LeetCode que he resuelto utilizando SQL u otros lenguajes.
+Este repositorio contiene soluciones a problemas de LeetCode que he resuelto utilizando SQL.
 
 ## Contenido
+En este repositorio, encontrarás soluciones a problemas de LeetCode en relación a SQL.
 
-En este repositorio, encontrarás soluciones a varios problemas de LeetCode organizados por lenguaje de programación.
 ### Estructura de Directorios:
 - **SQL/**: Soluciones a problemas de LeetCode utilizando SQL.
 
