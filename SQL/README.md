@@ -1,5 +1,5 @@
 
-# Soluciones a porblemas SQL de LeetCode.
+# Soluciones a problemas SQL de LeetCode.
 
 Esta carpeta contiene soluciones a problemas de LeetCode resueltos utilizando **SQL**. Cada archivo en esta carpeta corresponde a un problema resuelto de LeetCode, organizado por nombre del problema o ID de problema.
 
