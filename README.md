@@ -1,4 +1,4 @@
-# Repositorio de soluciones a problemas de LeetCode
+# Colección de soluciones a problemas de LeetCode
 
 Este repositorio contiene soluciones a problemas de LeetCode que he resuelto utilizando SQL u otros lenguajes.
 
